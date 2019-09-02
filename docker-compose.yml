@@ -1,26 +1,26 @@
 version: '3'
 services:
   app:
-    container_name: tag-and-find-app
+    container_name: invenire-app
     build:
       context: .
       dockerfile: Dockerfile-app
     networks:
-      - tag-and-find
+      - invenire
     restart: always
     depends_on:
       - nginx
   nginx:
-    container_name: tag-and-find-nginx
+    container_name: invenire-nginx
     build:
       context: .
       dockerfile: Dockerfile-nginx
     networks:
-      - tag-and-find
+      - invenire
     ports:
       - 8101:8101
     restart: always
 
 networks:
-  tag-and-find:
+  invenire:
     driver: bridge

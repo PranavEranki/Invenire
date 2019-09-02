@@ -1,4 +1,4 @@
-from src.tagandfind import app
+from src.invenire import app
 
 
 if __name__ == '__main__':

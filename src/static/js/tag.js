@@ -65,7 +65,7 @@ function locationrequest(a){
 function loadJSON(callback) {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'https://raw.githubusercontent.com/AlbertSuarez/tag-and-find/master/src/tags/tags.json', true);
+    xobj.open('GET', 'https://raw.githubusercontent.com/PranavEranki/invenire/master/src/tags/tags.json', true);
     xobj.onreadystatechange = function () {
       if (xobj.readyState == 4 && xobj.status == "200") {
         callback(JSON.parse(xobj.responseText));
