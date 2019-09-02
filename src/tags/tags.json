@@ -1,0 +1,176 @@
+{
+    "tags": {
+        "location": [
+            "Here",
+            "Other"
+        ],
+        "necessity":[
+            "art gallery",
+            "bakery",
+            "bar",
+            "cafe",
+            "campground",
+            "cinema",
+            "clothing store",
+            "department store",
+            "gas station",
+            "hospital",
+            "laundry",
+            "library",
+            "museum",
+            "park",
+            "pharmacy",
+            "post office",
+            "restaurant",
+            "store",
+            "supermarket",
+            "toilet",
+            "tourist attractions"
+        ],
+        "features": {
+            "art gallery":[
+                "quiet",
+                "wonderful",
+                "cheap",
+                "luxurious"
+            ],
+            "bakery":[
+                "tasty",
+                "cheap",
+                "luxurious",
+                "quick",
+                "gentle"
+            ],
+            "bar":[
+                "clean",
+                "comfortable",
+                "quiet",
+                "tasty",
+                "cheap",
+                "luxurious",
+                "quick",
+                "gentle"
+            ],
+            "cafe":[
+                "clean",
+                "comfortable",
+                "quiet",
+                "tasty",
+                "cheap",
+                "luxurious",
+                "quick",
+                "gentle"
+            ],
+            "campground":[
+                "clean",
+                "quiet",
+                "comfortable",
+                "wonderful"
+            ],
+            "cinema":[
+                "comfortable",
+                "quiet",
+                "cheap",
+                "luxurious"
+            ],
+            "clothing store":[
+                "comfortable",
+                "cheap",
+                "luxurious",
+                "gentle"
+            ],
+            "department store":[
+                "comfortable",
+                "cheap",
+                "luxurious",
+                "gentle",
+                "quiet"
+            ],
+            "gas station":[
+                "clean",
+                "cheap",
+                "quick",
+                "gentle"
+            ],
+            "hospital":[
+                "comfortable",
+                "quiet",
+                "quick",
+                "gentle"
+            ],
+            "laundry":[
+                "clean",
+                "comfortable",
+                "quiet",
+                "cheap",
+                "luxurious",
+                "quick",
+                "gentle"
+            ],
+            "library":[
+                "clean",
+                "comfortable",
+                "quiet",
+                "wonderful",
+                "gentle"
+            ],
+            "museum":[
+                "quiet",
+                "wonderful",
+                "cheap",
+                "luxurious",
+                "gentle"
+            ],
+            "park":[
+                "clean",
+                "comfortable",
+                "quiet",
+                "wonderful"
+            ],
+            "pharmacy":[
+                "quick",
+                "gentle"
+            ],
+            "post office":[
+                "quick",
+                "gentle"
+            ],
+            "restaurant":[
+                "clean",
+                "comfortable",
+                "quiet",
+                "tasty",
+                "cheap",
+                "luxurious",
+                "quick",
+                "gentle"
+            ],
+            "store":[
+                "cheap",
+                "luxurious",
+                "quick",
+                "gentle"
+            ],
+            "supermarket":[
+                "cheap",
+                "luxurious",
+                "quick",
+                "gentle"
+            ],
+            "toilet":[
+                "clean",
+                "comfortable",
+                "quiet",
+                "cheap",
+                "luxurious",
+                "quick"
+            ],
+            "tourist attractions":[
+                "clean",
+                "quiet",
+                "wonderful",
+                "cheap"
+            ]
+        }
+    }
+}
