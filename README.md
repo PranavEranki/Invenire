@@ -64,5 +64,32 @@ docker-compose up -d
 
 ## Images
 
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/717/043/datas/gallery.jpg)
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/717/044/datas/gallery.jpg)
+#### Main page
+
+Landing page:
+
+<img src = "imgs/main.jpg" width="300px">
+
+Destination picker:
+
+<img src = "imgs/destination.jpg" width="300px">
+
+#### Search page
+
+Web page - search view:
+
+<img src = "imgs/finder.jpg" width="300px">
+
+Mobile page - search view:
+
+<img src = "imgs/mobile_search.jpg" width="300px">
+
+#### Results page
+
+Web page - results view:
+
+<img src = "imgs/results.jpg" width="300px">
+
+Mobile page - results view:
+
+<img src = "imgs/mobile_results.jpg" width="300px">
