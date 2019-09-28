@@ -106,8 +106,5 @@ venv.bak/
 # Jetbrains
 .idea
 
-# Images
-*.jpg
-
 # vscode
 .vscode
