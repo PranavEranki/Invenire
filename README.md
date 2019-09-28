@@ -61,35 +61,3 @@ or via docker-compose
 ```bash
 docker-compose up -d
 ```
-
-## Images
-
-#### Main page
-
-Landing page:
-
-<img src = "imgs/main.jpg" width="300px">
-
-Destination picker:
-
-<img src = "imgs/destination.jpg" width="300px">
-
-#### Search page
-
-Web page - search view:
-
-<img src = "imgs/finder.jpg" width="300px">
-
-Mobile page - search view:
-
-<img src = "imgs/mobile_search.jpg" width="300px">
-
-#### Results page
-
-Web page - results view:
-
-<img src = "imgs/results.jpg" width="300px">
-
-Mobile page - results view:
-
-<img src = "imgs/mobile_results.jpg" width="300px">
